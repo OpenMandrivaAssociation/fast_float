@@ -1,3 +1,4 @@
+%undefine _debugsource_packages
 Name:           fast_float
 Version:        8.0.2
 Release:        1
